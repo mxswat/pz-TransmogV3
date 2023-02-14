@@ -31,6 +31,8 @@ end
 
 local manager = ScriptManager.instance
 local function TransmogItem(sourceItem)
+  print("Transmogging: "..sourceItem:getName())
+  local sourceItemScriptItem = sourceItem:getScriptItem()
   local transmogScriptItem = manager:getItem("TransmogV3.TransmogHide_1");
 
   local params = {
@@ -51,7 +53,7 @@ local function TransmogItem(sourceItem)
     ["WaterResistance"] = "WaterResistance",
     ["FabricType"] = "FabricType",
     ["ActualWeight"] = "Weight",
-    ["Name"] = "DisplayName",
+    ["BodyLocation"] = "BodyLocation",
     -- ["RemoveOnBroken"] = "RemoveOnBroken", -- Unused
     -- ["BloodClothingType"] = "BloodLocation", -- <- Why the this has a different name???
   }
@@ -65,18 +67,24 @@ local function TransmogItem(sourceItem)
     end
   end
 
+  --[ DoParam Fixes ]--
+  -- BloodLocation
+  local bloodClothingType = "BloodLocation = " .. joinArraylist(sourceItem:getBloodClothingType()) 
+  print(bloodClothingType)
+  transmogScriptItem:DoParam(bloodClothingType);
 
-  local icon = transmogScriptItem:getIcon()
-  if transmogScriptItem:getIconsForTexture() and not transmogScriptItem:getIconsForTexture():isEmpty() then
-      icon = transmogScriptItem:getIconsForTexture():get(0)
+  -- Icon
+  local icon = sourceItemScriptItem:getIcon()
+  if sourceItemScriptItem:getIconsForTexture() and not transmogScriptItem:getIconsForTexture():isEmpty() then
+      icon = sourceItemScriptItem:getIconsForTexture():get(0)
   end
   transmogScriptItem:DoParam("Icon = " .. tostring(icon));
 
-  
-  local bloodClothingType = sourceItem:getBloodClothingType()
-  transmogScriptItem:DoParam("BloodLocation = " .. joinArraylist(bloodClothingType));
+  --[ Other Fixes ]--
+  -- setDisplayName fixes
+  transmogScriptItem:setDisplayName(sourceItem:getName()..' +Transmog')
 
-
+  -- Spawn the item
   local spawnedItem = getPlayer():getInventory():AddItem("TransmogV3.TransmogHide_1");
 end
 

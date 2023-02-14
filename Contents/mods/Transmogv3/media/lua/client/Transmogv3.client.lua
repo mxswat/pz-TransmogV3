@@ -32,8 +32,9 @@ end
 local manager = ScriptManager.instance
 local function TransmogItem(sourceItem)
   print("Transmogging: "..sourceItem:getName())
+  local toSpawn = "TransmogV3.TransmogClone_1"
   local sourceItemScriptItem = sourceItem:getScriptItem()
-  local transmogScriptItem = manager:getItem("TransmogV3.TransmogHide_1");
+  local transmogScriptItem = manager:getItem(toSpawn);
 
   local params = {
     ["Temperature"] = "Temperature",
@@ -85,7 +86,7 @@ local function TransmogItem(sourceItem)
   transmogScriptItem:setDisplayName(sourceItem:getName()..' +Transmog')
 
   -- Spawn the item
-  local spawnedItem = getPlayer():getInventory():AddItem("TransmogV3.TransmogHide_1");
+  local spawnedItem = getPlayer():getInventory():AddItem(toSpawn);
 end
 
 local old_ISInventoryPaneContextMenu_createMenu = ISInventoryPaneContextMenu.createMenu

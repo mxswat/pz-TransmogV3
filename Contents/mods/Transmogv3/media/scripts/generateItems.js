@@ -1,5 +1,5 @@
 const header =
-`module TransmogV3 {
+  `module TransmogV3 {
 	imports	{
 		Base
 	}
@@ -7,19 +7,19 @@ const header =
 
 const footer = `}`
 
-const templateHide = (idx) => 
-`  item TransmogHide_${idx} {
+const templateClone = (idx) =>
+  `  item TransmogClone_${idx} {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_${idx},
+    DisplayName = TransmogClone_${idx},
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
 `
-const templateCosmetic = (idx) => 
-`  item TransmogCosmetic_${idx} {
+const templateCosmetic = (idx) =>
+  `  item TransmogCosmetic_${idx} {
     DisplayCategory = Transmog,
     Type = Clothing,
     Cosmetic = TRUE,
@@ -32,11 +32,11 @@ const templateCosmetic = (idx) =>
 `
 
 // i + 1, lua counts from 1
-const templatesHide = Array.from({ length: 500 }, (_, i) => templateHide(i + 1));
-const textHide = header+templatesHide.join('')+footer
+const templatesClone = Array.from({ length: 500 }, (_, i) => templateClone(i + 1));
+const textClone = header + templatesClone.join('') + footer
 
 const fs = require('fs')
-fs.writeFile('./TransmogHide.txt', textHide, err => {
+fs.writeFile('./TransmogClones.txt', textClone, err => {
   if (err) {
     console.error(err)
     return
@@ -44,7 +44,7 @@ fs.writeFile('./TransmogHide.txt', textHide, err => {
 })
 
 const templatesCosmetic = Array.from({ length: 500 }, (_, i) => templateCosmetic(i + 1));
-const textCosmetic = header+templatesCosmetic.join('')+footer
+const textCosmetic = header + templatesCosmetic.join('') + footer
 fs.writeFile('./TransmogCosmetic.txt', textCosmetic, err => {
   if (err) {
     console.error(err)

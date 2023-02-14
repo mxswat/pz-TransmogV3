@@ -2,4501 +2,4501 @@ module TransmogV3 {
 	imports	{
 		Base
 	}
-  item TransmogHide_1 {
+  item TransmogClone_1 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_1,
+    DisplayName = TransmogClone_1,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_2 {
+  item TransmogClone_2 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_2,
+    DisplayName = TransmogClone_2,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_3 {
+  item TransmogClone_3 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_3,
+    DisplayName = TransmogClone_3,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_4 {
+  item TransmogClone_4 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_4,
+    DisplayName = TransmogClone_4,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_5 {
+  item TransmogClone_5 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_5,
+    DisplayName = TransmogClone_5,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_6 {
+  item TransmogClone_6 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_6,
+    DisplayName = TransmogClone_6,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_7 {
+  item TransmogClone_7 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_7,
+    DisplayName = TransmogClone_7,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_8 {
+  item TransmogClone_8 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_8,
+    DisplayName = TransmogClone_8,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_9 {
+  item TransmogClone_9 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_9,
+    DisplayName = TransmogClone_9,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_10 {
+  item TransmogClone_10 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_10,
+    DisplayName = TransmogClone_10,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_11 {
+  item TransmogClone_11 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_11,
+    DisplayName = TransmogClone_11,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_12 {
+  item TransmogClone_12 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_12,
+    DisplayName = TransmogClone_12,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_13 {
+  item TransmogClone_13 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_13,
+    DisplayName = TransmogClone_13,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_14 {
+  item TransmogClone_14 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_14,
+    DisplayName = TransmogClone_14,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_15 {
+  item TransmogClone_15 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_15,
+    DisplayName = TransmogClone_15,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_16 {
+  item TransmogClone_16 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_16,
+    DisplayName = TransmogClone_16,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_17 {
+  item TransmogClone_17 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_17,
+    DisplayName = TransmogClone_17,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_18 {
+  item TransmogClone_18 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_18,
+    DisplayName = TransmogClone_18,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_19 {
+  item TransmogClone_19 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_19,
+    DisplayName = TransmogClone_19,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_20 {
+  item TransmogClone_20 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_20,
+    DisplayName = TransmogClone_20,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_21 {
+  item TransmogClone_21 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_21,
+    DisplayName = TransmogClone_21,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_22 {
+  item TransmogClone_22 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_22,
+    DisplayName = TransmogClone_22,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_23 {
+  item TransmogClone_23 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_23,
+    DisplayName = TransmogClone_23,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_24 {
+  item TransmogClone_24 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_24,
+    DisplayName = TransmogClone_24,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_25 {
+  item TransmogClone_25 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_25,
+    DisplayName = TransmogClone_25,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_26 {
+  item TransmogClone_26 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_26,
+    DisplayName = TransmogClone_26,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_27 {
+  item TransmogClone_27 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_27,
+    DisplayName = TransmogClone_27,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_28 {
+  item TransmogClone_28 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_28,
+    DisplayName = TransmogClone_28,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_29 {
+  item TransmogClone_29 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_29,
+    DisplayName = TransmogClone_29,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_30 {
+  item TransmogClone_30 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_30,
+    DisplayName = TransmogClone_30,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_31 {
+  item TransmogClone_31 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_31,
+    DisplayName = TransmogClone_31,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_32 {
+  item TransmogClone_32 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_32,
+    DisplayName = TransmogClone_32,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_33 {
+  item TransmogClone_33 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_33,
+    DisplayName = TransmogClone_33,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_34 {
+  item TransmogClone_34 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_34,
+    DisplayName = TransmogClone_34,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_35 {
+  item TransmogClone_35 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_35,
+    DisplayName = TransmogClone_35,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_36 {
+  item TransmogClone_36 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_36,
+    DisplayName = TransmogClone_36,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_37 {
+  item TransmogClone_37 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_37,
+    DisplayName = TransmogClone_37,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_38 {
+  item TransmogClone_38 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_38,
+    DisplayName = TransmogClone_38,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_39 {
+  item TransmogClone_39 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_39,
+    DisplayName = TransmogClone_39,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_40 {
+  item TransmogClone_40 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_40,
+    DisplayName = TransmogClone_40,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_41 {
+  item TransmogClone_41 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_41,
+    DisplayName = TransmogClone_41,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_42 {
+  item TransmogClone_42 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_42,
+    DisplayName = TransmogClone_42,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_43 {
+  item TransmogClone_43 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_43,
+    DisplayName = TransmogClone_43,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_44 {
+  item TransmogClone_44 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_44,
+    DisplayName = TransmogClone_44,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_45 {
+  item TransmogClone_45 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_45,
+    DisplayName = TransmogClone_45,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_46 {
+  item TransmogClone_46 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_46,
+    DisplayName = TransmogClone_46,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_47 {
+  item TransmogClone_47 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_47,
+    DisplayName = TransmogClone_47,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_48 {
+  item TransmogClone_48 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_48,
+    DisplayName = TransmogClone_48,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_49 {
+  item TransmogClone_49 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_49,
+    DisplayName = TransmogClone_49,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_50 {
+  item TransmogClone_50 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_50,
+    DisplayName = TransmogClone_50,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_51 {
+  item TransmogClone_51 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_51,
+    DisplayName = TransmogClone_51,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_52 {
+  item TransmogClone_52 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_52,
+    DisplayName = TransmogClone_52,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_53 {
+  item TransmogClone_53 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_53,
+    DisplayName = TransmogClone_53,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_54 {
+  item TransmogClone_54 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_54,
+    DisplayName = TransmogClone_54,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_55 {
+  item TransmogClone_55 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_55,
+    DisplayName = TransmogClone_55,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_56 {
+  item TransmogClone_56 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_56,
+    DisplayName = TransmogClone_56,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_57 {
+  item TransmogClone_57 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_57,
+    DisplayName = TransmogClone_57,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_58 {
+  item TransmogClone_58 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_58,
+    DisplayName = TransmogClone_58,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_59 {
+  item TransmogClone_59 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_59,
+    DisplayName = TransmogClone_59,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_60 {
+  item TransmogClone_60 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_60,
+    DisplayName = TransmogClone_60,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_61 {
+  item TransmogClone_61 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_61,
+    DisplayName = TransmogClone_61,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_62 {
+  item TransmogClone_62 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_62,
+    DisplayName = TransmogClone_62,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_63 {
+  item TransmogClone_63 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_63,
+    DisplayName = TransmogClone_63,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_64 {
+  item TransmogClone_64 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_64,
+    DisplayName = TransmogClone_64,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_65 {
+  item TransmogClone_65 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_65,
+    DisplayName = TransmogClone_65,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_66 {
+  item TransmogClone_66 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_66,
+    DisplayName = TransmogClone_66,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_67 {
+  item TransmogClone_67 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_67,
+    DisplayName = TransmogClone_67,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_68 {
+  item TransmogClone_68 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_68,
+    DisplayName = TransmogClone_68,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_69 {
+  item TransmogClone_69 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_69,
+    DisplayName = TransmogClone_69,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_70 {
+  item TransmogClone_70 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_70,
+    DisplayName = TransmogClone_70,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_71 {
+  item TransmogClone_71 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_71,
+    DisplayName = TransmogClone_71,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_72 {
+  item TransmogClone_72 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_72,
+    DisplayName = TransmogClone_72,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_73 {
+  item TransmogClone_73 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_73,
+    DisplayName = TransmogClone_73,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_74 {
+  item TransmogClone_74 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_74,
+    DisplayName = TransmogClone_74,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_75 {
+  item TransmogClone_75 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_75,
+    DisplayName = TransmogClone_75,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_76 {
+  item TransmogClone_76 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_76,
+    DisplayName = TransmogClone_76,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_77 {
+  item TransmogClone_77 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_77,
+    DisplayName = TransmogClone_77,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_78 {
+  item TransmogClone_78 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_78,
+    DisplayName = TransmogClone_78,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_79 {
+  item TransmogClone_79 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_79,
+    DisplayName = TransmogClone_79,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_80 {
+  item TransmogClone_80 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_80,
+    DisplayName = TransmogClone_80,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_81 {
+  item TransmogClone_81 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_81,
+    DisplayName = TransmogClone_81,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_82 {
+  item TransmogClone_82 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_82,
+    DisplayName = TransmogClone_82,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_83 {
+  item TransmogClone_83 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_83,
+    DisplayName = TransmogClone_83,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_84 {
+  item TransmogClone_84 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_84,
+    DisplayName = TransmogClone_84,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_85 {
+  item TransmogClone_85 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_85,
+    DisplayName = TransmogClone_85,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_86 {
+  item TransmogClone_86 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_86,
+    DisplayName = TransmogClone_86,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_87 {
+  item TransmogClone_87 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_87,
+    DisplayName = TransmogClone_87,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_88 {
+  item TransmogClone_88 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_88,
+    DisplayName = TransmogClone_88,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_89 {
+  item TransmogClone_89 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_89,
+    DisplayName = TransmogClone_89,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_90 {
+  item TransmogClone_90 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_90,
+    DisplayName = TransmogClone_90,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_91 {
+  item TransmogClone_91 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_91,
+    DisplayName = TransmogClone_91,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_92 {
+  item TransmogClone_92 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_92,
+    DisplayName = TransmogClone_92,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_93 {
+  item TransmogClone_93 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_93,
+    DisplayName = TransmogClone_93,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_94 {
+  item TransmogClone_94 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_94,
+    DisplayName = TransmogClone_94,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_95 {
+  item TransmogClone_95 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_95,
+    DisplayName = TransmogClone_95,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_96 {
+  item TransmogClone_96 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_96,
+    DisplayName = TransmogClone_96,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_97 {
+  item TransmogClone_97 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_97,
+    DisplayName = TransmogClone_97,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_98 {
+  item TransmogClone_98 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_98,
+    DisplayName = TransmogClone_98,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_99 {
+  item TransmogClone_99 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_99,
+    DisplayName = TransmogClone_99,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_100 {
+  item TransmogClone_100 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_100,
+    DisplayName = TransmogClone_100,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_101 {
+  item TransmogClone_101 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_101,
+    DisplayName = TransmogClone_101,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_102 {
+  item TransmogClone_102 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_102,
+    DisplayName = TransmogClone_102,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_103 {
+  item TransmogClone_103 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_103,
+    DisplayName = TransmogClone_103,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_104 {
+  item TransmogClone_104 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_104,
+    DisplayName = TransmogClone_104,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_105 {
+  item TransmogClone_105 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_105,
+    DisplayName = TransmogClone_105,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_106 {
+  item TransmogClone_106 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_106,
+    DisplayName = TransmogClone_106,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_107 {
+  item TransmogClone_107 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_107,
+    DisplayName = TransmogClone_107,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_108 {
+  item TransmogClone_108 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_108,
+    DisplayName = TransmogClone_108,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_109 {
+  item TransmogClone_109 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_109,
+    DisplayName = TransmogClone_109,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_110 {
+  item TransmogClone_110 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_110,
+    DisplayName = TransmogClone_110,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_111 {
+  item TransmogClone_111 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_111,
+    DisplayName = TransmogClone_111,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_112 {
+  item TransmogClone_112 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_112,
+    DisplayName = TransmogClone_112,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_113 {
+  item TransmogClone_113 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_113,
+    DisplayName = TransmogClone_113,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_114 {
+  item TransmogClone_114 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_114,
+    DisplayName = TransmogClone_114,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_115 {
+  item TransmogClone_115 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_115,
+    DisplayName = TransmogClone_115,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_116 {
+  item TransmogClone_116 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_116,
+    DisplayName = TransmogClone_116,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_117 {
+  item TransmogClone_117 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_117,
+    DisplayName = TransmogClone_117,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_118 {
+  item TransmogClone_118 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_118,
+    DisplayName = TransmogClone_118,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_119 {
+  item TransmogClone_119 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_119,
+    DisplayName = TransmogClone_119,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_120 {
+  item TransmogClone_120 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_120,
+    DisplayName = TransmogClone_120,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_121 {
+  item TransmogClone_121 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_121,
+    DisplayName = TransmogClone_121,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_122 {
+  item TransmogClone_122 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_122,
+    DisplayName = TransmogClone_122,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_123 {
+  item TransmogClone_123 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_123,
+    DisplayName = TransmogClone_123,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_124 {
+  item TransmogClone_124 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_124,
+    DisplayName = TransmogClone_124,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_125 {
+  item TransmogClone_125 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_125,
+    DisplayName = TransmogClone_125,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_126 {
+  item TransmogClone_126 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_126,
+    DisplayName = TransmogClone_126,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_127 {
+  item TransmogClone_127 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_127,
+    DisplayName = TransmogClone_127,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_128 {
+  item TransmogClone_128 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_128,
+    DisplayName = TransmogClone_128,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_129 {
+  item TransmogClone_129 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_129,
+    DisplayName = TransmogClone_129,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_130 {
+  item TransmogClone_130 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_130,
+    DisplayName = TransmogClone_130,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_131 {
+  item TransmogClone_131 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_131,
+    DisplayName = TransmogClone_131,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_132 {
+  item TransmogClone_132 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_132,
+    DisplayName = TransmogClone_132,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_133 {
+  item TransmogClone_133 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_133,
+    DisplayName = TransmogClone_133,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_134 {
+  item TransmogClone_134 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_134,
+    DisplayName = TransmogClone_134,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_135 {
+  item TransmogClone_135 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_135,
+    DisplayName = TransmogClone_135,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_136 {
+  item TransmogClone_136 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_136,
+    DisplayName = TransmogClone_136,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_137 {
+  item TransmogClone_137 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_137,
+    DisplayName = TransmogClone_137,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_138 {
+  item TransmogClone_138 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_138,
+    DisplayName = TransmogClone_138,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_139 {
+  item TransmogClone_139 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_139,
+    DisplayName = TransmogClone_139,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_140 {
+  item TransmogClone_140 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_140,
+    DisplayName = TransmogClone_140,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_141 {
+  item TransmogClone_141 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_141,
+    DisplayName = TransmogClone_141,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_142 {
+  item TransmogClone_142 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_142,
+    DisplayName = TransmogClone_142,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_143 {
+  item TransmogClone_143 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_143,
+    DisplayName = TransmogClone_143,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_144 {
+  item TransmogClone_144 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_144,
+    DisplayName = TransmogClone_144,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_145 {
+  item TransmogClone_145 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_145,
+    DisplayName = TransmogClone_145,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_146 {
+  item TransmogClone_146 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_146,
+    DisplayName = TransmogClone_146,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_147 {
+  item TransmogClone_147 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_147,
+    DisplayName = TransmogClone_147,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_148 {
+  item TransmogClone_148 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_148,
+    DisplayName = TransmogClone_148,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_149 {
+  item TransmogClone_149 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_149,
+    DisplayName = TransmogClone_149,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_150 {
+  item TransmogClone_150 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_150,
+    DisplayName = TransmogClone_150,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_151 {
+  item TransmogClone_151 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_151,
+    DisplayName = TransmogClone_151,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_152 {
+  item TransmogClone_152 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_152,
+    DisplayName = TransmogClone_152,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_153 {
+  item TransmogClone_153 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_153,
+    DisplayName = TransmogClone_153,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_154 {
+  item TransmogClone_154 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_154,
+    DisplayName = TransmogClone_154,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_155 {
+  item TransmogClone_155 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_155,
+    DisplayName = TransmogClone_155,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_156 {
+  item TransmogClone_156 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_156,
+    DisplayName = TransmogClone_156,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_157 {
+  item TransmogClone_157 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_157,
+    DisplayName = TransmogClone_157,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_158 {
+  item TransmogClone_158 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_158,
+    DisplayName = TransmogClone_158,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_159 {
+  item TransmogClone_159 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_159,
+    DisplayName = TransmogClone_159,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_160 {
+  item TransmogClone_160 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_160,
+    DisplayName = TransmogClone_160,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_161 {
+  item TransmogClone_161 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_161,
+    DisplayName = TransmogClone_161,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_162 {
+  item TransmogClone_162 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_162,
+    DisplayName = TransmogClone_162,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_163 {
+  item TransmogClone_163 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_163,
+    DisplayName = TransmogClone_163,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_164 {
+  item TransmogClone_164 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_164,
+    DisplayName = TransmogClone_164,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_165 {
+  item TransmogClone_165 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_165,
+    DisplayName = TransmogClone_165,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_166 {
+  item TransmogClone_166 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_166,
+    DisplayName = TransmogClone_166,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_167 {
+  item TransmogClone_167 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_167,
+    DisplayName = TransmogClone_167,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_168 {
+  item TransmogClone_168 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_168,
+    DisplayName = TransmogClone_168,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_169 {
+  item TransmogClone_169 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_169,
+    DisplayName = TransmogClone_169,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_170 {
+  item TransmogClone_170 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_170,
+    DisplayName = TransmogClone_170,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_171 {
+  item TransmogClone_171 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_171,
+    DisplayName = TransmogClone_171,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_172 {
+  item TransmogClone_172 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_172,
+    DisplayName = TransmogClone_172,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_173 {
+  item TransmogClone_173 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_173,
+    DisplayName = TransmogClone_173,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_174 {
+  item TransmogClone_174 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_174,
+    DisplayName = TransmogClone_174,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_175 {
+  item TransmogClone_175 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_175,
+    DisplayName = TransmogClone_175,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_176 {
+  item TransmogClone_176 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_176,
+    DisplayName = TransmogClone_176,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_177 {
+  item TransmogClone_177 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_177,
+    DisplayName = TransmogClone_177,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_178 {
+  item TransmogClone_178 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_178,
+    DisplayName = TransmogClone_178,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_179 {
+  item TransmogClone_179 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_179,
+    DisplayName = TransmogClone_179,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_180 {
+  item TransmogClone_180 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_180,
+    DisplayName = TransmogClone_180,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_181 {
+  item TransmogClone_181 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_181,
+    DisplayName = TransmogClone_181,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_182 {
+  item TransmogClone_182 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_182,
+    DisplayName = TransmogClone_182,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_183 {
+  item TransmogClone_183 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_183,
+    DisplayName = TransmogClone_183,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_184 {
+  item TransmogClone_184 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_184,
+    DisplayName = TransmogClone_184,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_185 {
+  item TransmogClone_185 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_185,
+    DisplayName = TransmogClone_185,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_186 {
+  item TransmogClone_186 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_186,
+    DisplayName = TransmogClone_186,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_187 {
+  item TransmogClone_187 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_187,
+    DisplayName = TransmogClone_187,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_188 {
+  item TransmogClone_188 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_188,
+    DisplayName = TransmogClone_188,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_189 {
+  item TransmogClone_189 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_189,
+    DisplayName = TransmogClone_189,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_190 {
+  item TransmogClone_190 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_190,
+    DisplayName = TransmogClone_190,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_191 {
+  item TransmogClone_191 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_191,
+    DisplayName = TransmogClone_191,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_192 {
+  item TransmogClone_192 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_192,
+    DisplayName = TransmogClone_192,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_193 {
+  item TransmogClone_193 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_193,
+    DisplayName = TransmogClone_193,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_194 {
+  item TransmogClone_194 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_194,
+    DisplayName = TransmogClone_194,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_195 {
+  item TransmogClone_195 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_195,
+    DisplayName = TransmogClone_195,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_196 {
+  item TransmogClone_196 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_196,
+    DisplayName = TransmogClone_196,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_197 {
+  item TransmogClone_197 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_197,
+    DisplayName = TransmogClone_197,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_198 {
+  item TransmogClone_198 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_198,
+    DisplayName = TransmogClone_198,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_199 {
+  item TransmogClone_199 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_199,
+    DisplayName = TransmogClone_199,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_200 {
+  item TransmogClone_200 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_200,
+    DisplayName = TransmogClone_200,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_201 {
+  item TransmogClone_201 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_201,
+    DisplayName = TransmogClone_201,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_202 {
+  item TransmogClone_202 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_202,
+    DisplayName = TransmogClone_202,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_203 {
+  item TransmogClone_203 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_203,
+    DisplayName = TransmogClone_203,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_204 {
+  item TransmogClone_204 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_204,
+    DisplayName = TransmogClone_204,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_205 {
+  item TransmogClone_205 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_205,
+    DisplayName = TransmogClone_205,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_206 {
+  item TransmogClone_206 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_206,
+    DisplayName = TransmogClone_206,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_207 {
+  item TransmogClone_207 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_207,
+    DisplayName = TransmogClone_207,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_208 {
+  item TransmogClone_208 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_208,
+    DisplayName = TransmogClone_208,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_209 {
+  item TransmogClone_209 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_209,
+    DisplayName = TransmogClone_209,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_210 {
+  item TransmogClone_210 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_210,
+    DisplayName = TransmogClone_210,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_211 {
+  item TransmogClone_211 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_211,
+    DisplayName = TransmogClone_211,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_212 {
+  item TransmogClone_212 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_212,
+    DisplayName = TransmogClone_212,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_213 {
+  item TransmogClone_213 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_213,
+    DisplayName = TransmogClone_213,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_214 {
+  item TransmogClone_214 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_214,
+    DisplayName = TransmogClone_214,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_215 {
+  item TransmogClone_215 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_215,
+    DisplayName = TransmogClone_215,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_216 {
+  item TransmogClone_216 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_216,
+    DisplayName = TransmogClone_216,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_217 {
+  item TransmogClone_217 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_217,
+    DisplayName = TransmogClone_217,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_218 {
+  item TransmogClone_218 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_218,
+    DisplayName = TransmogClone_218,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_219 {
+  item TransmogClone_219 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_219,
+    DisplayName = TransmogClone_219,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_220 {
+  item TransmogClone_220 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_220,
+    DisplayName = TransmogClone_220,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_221 {
+  item TransmogClone_221 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_221,
+    DisplayName = TransmogClone_221,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_222 {
+  item TransmogClone_222 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_222,
+    DisplayName = TransmogClone_222,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_223 {
+  item TransmogClone_223 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_223,
+    DisplayName = TransmogClone_223,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_224 {
+  item TransmogClone_224 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_224,
+    DisplayName = TransmogClone_224,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_225 {
+  item TransmogClone_225 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_225,
+    DisplayName = TransmogClone_225,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_226 {
+  item TransmogClone_226 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_226,
+    DisplayName = TransmogClone_226,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_227 {
+  item TransmogClone_227 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_227,
+    DisplayName = TransmogClone_227,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_228 {
+  item TransmogClone_228 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_228,
+    DisplayName = TransmogClone_228,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_229 {
+  item TransmogClone_229 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_229,
+    DisplayName = TransmogClone_229,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_230 {
+  item TransmogClone_230 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_230,
+    DisplayName = TransmogClone_230,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_231 {
+  item TransmogClone_231 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_231,
+    DisplayName = TransmogClone_231,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_232 {
+  item TransmogClone_232 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_232,
+    DisplayName = TransmogClone_232,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_233 {
+  item TransmogClone_233 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_233,
+    DisplayName = TransmogClone_233,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_234 {
+  item TransmogClone_234 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_234,
+    DisplayName = TransmogClone_234,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_235 {
+  item TransmogClone_235 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_235,
+    DisplayName = TransmogClone_235,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_236 {
+  item TransmogClone_236 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_236,
+    DisplayName = TransmogClone_236,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_237 {
+  item TransmogClone_237 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_237,
+    DisplayName = TransmogClone_237,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_238 {
+  item TransmogClone_238 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_238,
+    DisplayName = TransmogClone_238,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_239 {
+  item TransmogClone_239 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_239,
+    DisplayName = TransmogClone_239,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_240 {
+  item TransmogClone_240 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_240,
+    DisplayName = TransmogClone_240,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_241 {
+  item TransmogClone_241 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_241,
+    DisplayName = TransmogClone_241,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_242 {
+  item TransmogClone_242 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_242,
+    DisplayName = TransmogClone_242,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_243 {
+  item TransmogClone_243 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_243,
+    DisplayName = TransmogClone_243,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_244 {
+  item TransmogClone_244 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_244,
+    DisplayName = TransmogClone_244,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_245 {
+  item TransmogClone_245 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_245,
+    DisplayName = TransmogClone_245,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_246 {
+  item TransmogClone_246 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_246,
+    DisplayName = TransmogClone_246,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_247 {
+  item TransmogClone_247 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_247,
+    DisplayName = TransmogClone_247,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_248 {
+  item TransmogClone_248 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_248,
+    DisplayName = TransmogClone_248,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_249 {
+  item TransmogClone_249 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_249,
+    DisplayName = TransmogClone_249,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_250 {
+  item TransmogClone_250 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_250,
+    DisplayName = TransmogClone_250,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_251 {
+  item TransmogClone_251 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_251,
+    DisplayName = TransmogClone_251,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_252 {
+  item TransmogClone_252 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_252,
+    DisplayName = TransmogClone_252,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_253 {
+  item TransmogClone_253 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_253,
+    DisplayName = TransmogClone_253,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_254 {
+  item TransmogClone_254 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_254,
+    DisplayName = TransmogClone_254,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_255 {
+  item TransmogClone_255 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_255,
+    DisplayName = TransmogClone_255,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_256 {
+  item TransmogClone_256 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_256,
+    DisplayName = TransmogClone_256,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_257 {
+  item TransmogClone_257 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_257,
+    DisplayName = TransmogClone_257,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_258 {
+  item TransmogClone_258 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_258,
+    DisplayName = TransmogClone_258,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_259 {
+  item TransmogClone_259 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_259,
+    DisplayName = TransmogClone_259,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_260 {
+  item TransmogClone_260 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_260,
+    DisplayName = TransmogClone_260,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_261 {
+  item TransmogClone_261 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_261,
+    DisplayName = TransmogClone_261,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_262 {
+  item TransmogClone_262 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_262,
+    DisplayName = TransmogClone_262,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_263 {
+  item TransmogClone_263 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_263,
+    DisplayName = TransmogClone_263,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_264 {
+  item TransmogClone_264 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_264,
+    DisplayName = TransmogClone_264,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_265 {
+  item TransmogClone_265 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_265,
+    DisplayName = TransmogClone_265,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_266 {
+  item TransmogClone_266 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_266,
+    DisplayName = TransmogClone_266,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_267 {
+  item TransmogClone_267 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_267,
+    DisplayName = TransmogClone_267,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_268 {
+  item TransmogClone_268 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_268,
+    DisplayName = TransmogClone_268,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_269 {
+  item TransmogClone_269 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_269,
+    DisplayName = TransmogClone_269,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_270 {
+  item TransmogClone_270 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_270,
+    DisplayName = TransmogClone_270,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_271 {
+  item TransmogClone_271 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_271,
+    DisplayName = TransmogClone_271,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_272 {
+  item TransmogClone_272 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_272,
+    DisplayName = TransmogClone_272,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_273 {
+  item TransmogClone_273 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_273,
+    DisplayName = TransmogClone_273,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_274 {
+  item TransmogClone_274 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_274,
+    DisplayName = TransmogClone_274,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_275 {
+  item TransmogClone_275 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_275,
+    DisplayName = TransmogClone_275,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_276 {
+  item TransmogClone_276 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_276,
+    DisplayName = TransmogClone_276,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_277 {
+  item TransmogClone_277 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_277,
+    DisplayName = TransmogClone_277,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_278 {
+  item TransmogClone_278 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_278,
+    DisplayName = TransmogClone_278,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_279 {
+  item TransmogClone_279 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_279,
+    DisplayName = TransmogClone_279,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_280 {
+  item TransmogClone_280 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_280,
+    DisplayName = TransmogClone_280,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_281 {
+  item TransmogClone_281 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_281,
+    DisplayName = TransmogClone_281,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_282 {
+  item TransmogClone_282 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_282,
+    DisplayName = TransmogClone_282,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_283 {
+  item TransmogClone_283 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_283,
+    DisplayName = TransmogClone_283,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_284 {
+  item TransmogClone_284 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_284,
+    DisplayName = TransmogClone_284,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_285 {
+  item TransmogClone_285 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_285,
+    DisplayName = TransmogClone_285,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_286 {
+  item TransmogClone_286 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_286,
+    DisplayName = TransmogClone_286,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_287 {
+  item TransmogClone_287 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_287,
+    DisplayName = TransmogClone_287,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_288 {
+  item TransmogClone_288 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_288,
+    DisplayName = TransmogClone_288,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_289 {
+  item TransmogClone_289 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_289,
+    DisplayName = TransmogClone_289,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_290 {
+  item TransmogClone_290 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_290,
+    DisplayName = TransmogClone_290,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_291 {
+  item TransmogClone_291 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_291,
+    DisplayName = TransmogClone_291,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_292 {
+  item TransmogClone_292 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_292,
+    DisplayName = TransmogClone_292,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_293 {
+  item TransmogClone_293 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_293,
+    DisplayName = TransmogClone_293,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_294 {
+  item TransmogClone_294 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_294,
+    DisplayName = TransmogClone_294,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_295 {
+  item TransmogClone_295 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_295,
+    DisplayName = TransmogClone_295,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_296 {
+  item TransmogClone_296 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_296,
+    DisplayName = TransmogClone_296,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_297 {
+  item TransmogClone_297 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_297,
+    DisplayName = TransmogClone_297,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_298 {
+  item TransmogClone_298 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_298,
+    DisplayName = TransmogClone_298,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_299 {
+  item TransmogClone_299 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_299,
+    DisplayName = TransmogClone_299,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_300 {
+  item TransmogClone_300 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_300,
+    DisplayName = TransmogClone_300,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_301 {
+  item TransmogClone_301 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_301,
+    DisplayName = TransmogClone_301,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_302 {
+  item TransmogClone_302 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_302,
+    DisplayName = TransmogClone_302,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_303 {
+  item TransmogClone_303 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_303,
+    DisplayName = TransmogClone_303,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_304 {
+  item TransmogClone_304 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_304,
+    DisplayName = TransmogClone_304,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_305 {
+  item TransmogClone_305 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_305,
+    DisplayName = TransmogClone_305,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_306 {
+  item TransmogClone_306 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_306,
+    DisplayName = TransmogClone_306,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_307 {
+  item TransmogClone_307 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_307,
+    DisplayName = TransmogClone_307,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_308 {
+  item TransmogClone_308 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_308,
+    DisplayName = TransmogClone_308,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_309 {
+  item TransmogClone_309 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_309,
+    DisplayName = TransmogClone_309,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_310 {
+  item TransmogClone_310 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_310,
+    DisplayName = TransmogClone_310,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_311 {
+  item TransmogClone_311 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_311,
+    DisplayName = TransmogClone_311,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_312 {
+  item TransmogClone_312 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_312,
+    DisplayName = TransmogClone_312,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_313 {
+  item TransmogClone_313 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_313,
+    DisplayName = TransmogClone_313,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_314 {
+  item TransmogClone_314 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_314,
+    DisplayName = TransmogClone_314,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_315 {
+  item TransmogClone_315 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_315,
+    DisplayName = TransmogClone_315,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_316 {
+  item TransmogClone_316 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_316,
+    DisplayName = TransmogClone_316,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_317 {
+  item TransmogClone_317 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_317,
+    DisplayName = TransmogClone_317,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_318 {
+  item TransmogClone_318 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_318,
+    DisplayName = TransmogClone_318,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_319 {
+  item TransmogClone_319 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_319,
+    DisplayName = TransmogClone_319,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_320 {
+  item TransmogClone_320 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_320,
+    DisplayName = TransmogClone_320,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_321 {
+  item TransmogClone_321 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_321,
+    DisplayName = TransmogClone_321,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_322 {
+  item TransmogClone_322 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_322,
+    DisplayName = TransmogClone_322,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_323 {
+  item TransmogClone_323 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_323,
+    DisplayName = TransmogClone_323,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_324 {
+  item TransmogClone_324 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_324,
+    DisplayName = TransmogClone_324,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_325 {
+  item TransmogClone_325 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_325,
+    DisplayName = TransmogClone_325,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_326 {
+  item TransmogClone_326 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_326,
+    DisplayName = TransmogClone_326,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_327 {
+  item TransmogClone_327 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_327,
+    DisplayName = TransmogClone_327,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_328 {
+  item TransmogClone_328 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_328,
+    DisplayName = TransmogClone_328,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_329 {
+  item TransmogClone_329 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_329,
+    DisplayName = TransmogClone_329,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_330 {
+  item TransmogClone_330 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_330,
+    DisplayName = TransmogClone_330,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_331 {
+  item TransmogClone_331 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_331,
+    DisplayName = TransmogClone_331,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_332 {
+  item TransmogClone_332 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_332,
+    DisplayName = TransmogClone_332,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_333 {
+  item TransmogClone_333 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_333,
+    DisplayName = TransmogClone_333,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_334 {
+  item TransmogClone_334 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_334,
+    DisplayName = TransmogClone_334,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_335 {
+  item TransmogClone_335 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_335,
+    DisplayName = TransmogClone_335,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_336 {
+  item TransmogClone_336 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_336,
+    DisplayName = TransmogClone_336,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_337 {
+  item TransmogClone_337 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_337,
+    DisplayName = TransmogClone_337,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_338 {
+  item TransmogClone_338 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_338,
+    DisplayName = TransmogClone_338,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_339 {
+  item TransmogClone_339 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_339,
+    DisplayName = TransmogClone_339,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_340 {
+  item TransmogClone_340 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_340,
+    DisplayName = TransmogClone_340,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_341 {
+  item TransmogClone_341 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_341,
+    DisplayName = TransmogClone_341,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_342 {
+  item TransmogClone_342 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_342,
+    DisplayName = TransmogClone_342,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_343 {
+  item TransmogClone_343 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_343,
+    DisplayName = TransmogClone_343,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_344 {
+  item TransmogClone_344 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_344,
+    DisplayName = TransmogClone_344,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_345 {
+  item TransmogClone_345 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_345,
+    DisplayName = TransmogClone_345,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_346 {
+  item TransmogClone_346 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_346,
+    DisplayName = TransmogClone_346,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_347 {
+  item TransmogClone_347 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_347,
+    DisplayName = TransmogClone_347,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_348 {
+  item TransmogClone_348 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_348,
+    DisplayName = TransmogClone_348,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_349 {
+  item TransmogClone_349 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_349,
+    DisplayName = TransmogClone_349,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_350 {
+  item TransmogClone_350 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_350,
+    DisplayName = TransmogClone_350,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_351 {
+  item TransmogClone_351 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_351,
+    DisplayName = TransmogClone_351,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_352 {
+  item TransmogClone_352 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_352,
+    DisplayName = TransmogClone_352,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_353 {
+  item TransmogClone_353 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_353,
+    DisplayName = TransmogClone_353,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_354 {
+  item TransmogClone_354 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_354,
+    DisplayName = TransmogClone_354,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_355 {
+  item TransmogClone_355 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_355,
+    DisplayName = TransmogClone_355,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_356 {
+  item TransmogClone_356 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_356,
+    DisplayName = TransmogClone_356,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_357 {
+  item TransmogClone_357 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_357,
+    DisplayName = TransmogClone_357,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_358 {
+  item TransmogClone_358 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_358,
+    DisplayName = TransmogClone_358,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_359 {
+  item TransmogClone_359 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_359,
+    DisplayName = TransmogClone_359,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_360 {
+  item TransmogClone_360 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_360,
+    DisplayName = TransmogClone_360,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_361 {
+  item TransmogClone_361 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_361,
+    DisplayName = TransmogClone_361,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_362 {
+  item TransmogClone_362 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_362,
+    DisplayName = TransmogClone_362,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_363 {
+  item TransmogClone_363 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_363,
+    DisplayName = TransmogClone_363,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_364 {
+  item TransmogClone_364 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_364,
+    DisplayName = TransmogClone_364,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_365 {
+  item TransmogClone_365 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_365,
+    DisplayName = TransmogClone_365,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_366 {
+  item TransmogClone_366 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_366,
+    DisplayName = TransmogClone_366,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_367 {
+  item TransmogClone_367 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_367,
+    DisplayName = TransmogClone_367,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_368 {
+  item TransmogClone_368 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_368,
+    DisplayName = TransmogClone_368,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_369 {
+  item TransmogClone_369 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_369,
+    DisplayName = TransmogClone_369,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_370 {
+  item TransmogClone_370 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_370,
+    DisplayName = TransmogClone_370,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_371 {
+  item TransmogClone_371 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_371,
+    DisplayName = TransmogClone_371,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_372 {
+  item TransmogClone_372 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_372,
+    DisplayName = TransmogClone_372,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_373 {
+  item TransmogClone_373 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_373,
+    DisplayName = TransmogClone_373,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_374 {
+  item TransmogClone_374 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_374,
+    DisplayName = TransmogClone_374,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_375 {
+  item TransmogClone_375 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_375,
+    DisplayName = TransmogClone_375,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_376 {
+  item TransmogClone_376 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_376,
+    DisplayName = TransmogClone_376,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_377 {
+  item TransmogClone_377 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_377,
+    DisplayName = TransmogClone_377,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_378 {
+  item TransmogClone_378 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_378,
+    DisplayName = TransmogClone_378,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_379 {
+  item TransmogClone_379 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_379,
+    DisplayName = TransmogClone_379,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_380 {
+  item TransmogClone_380 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_380,
+    DisplayName = TransmogClone_380,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_381 {
+  item TransmogClone_381 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_381,
+    DisplayName = TransmogClone_381,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_382 {
+  item TransmogClone_382 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_382,
+    DisplayName = TransmogClone_382,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_383 {
+  item TransmogClone_383 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_383,
+    DisplayName = TransmogClone_383,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_384 {
+  item TransmogClone_384 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_384,
+    DisplayName = TransmogClone_384,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_385 {
+  item TransmogClone_385 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_385,
+    DisplayName = TransmogClone_385,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_386 {
+  item TransmogClone_386 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_386,
+    DisplayName = TransmogClone_386,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_387 {
+  item TransmogClone_387 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_387,
+    DisplayName = TransmogClone_387,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_388 {
+  item TransmogClone_388 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_388,
+    DisplayName = TransmogClone_388,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_389 {
+  item TransmogClone_389 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_389,
+    DisplayName = TransmogClone_389,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_390 {
+  item TransmogClone_390 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_390,
+    DisplayName = TransmogClone_390,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_391 {
+  item TransmogClone_391 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_391,
+    DisplayName = TransmogClone_391,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_392 {
+  item TransmogClone_392 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_392,
+    DisplayName = TransmogClone_392,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_393 {
+  item TransmogClone_393 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_393,
+    DisplayName = TransmogClone_393,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_394 {
+  item TransmogClone_394 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_394,
+    DisplayName = TransmogClone_394,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_395 {
+  item TransmogClone_395 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_395,
+    DisplayName = TransmogClone_395,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_396 {
+  item TransmogClone_396 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_396,
+    DisplayName = TransmogClone_396,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_397 {
+  item TransmogClone_397 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_397,
+    DisplayName = TransmogClone_397,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_398 {
+  item TransmogClone_398 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_398,
+    DisplayName = TransmogClone_398,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_399 {
+  item TransmogClone_399 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_399,
+    DisplayName = TransmogClone_399,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_400 {
+  item TransmogClone_400 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_400,
+    DisplayName = TransmogClone_400,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_401 {
+  item TransmogClone_401 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_401,
+    DisplayName = TransmogClone_401,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_402 {
+  item TransmogClone_402 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_402,
+    DisplayName = TransmogClone_402,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_403 {
+  item TransmogClone_403 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_403,
+    DisplayName = TransmogClone_403,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_404 {
+  item TransmogClone_404 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_404,
+    DisplayName = TransmogClone_404,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_405 {
+  item TransmogClone_405 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_405,
+    DisplayName = TransmogClone_405,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_406 {
+  item TransmogClone_406 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_406,
+    DisplayName = TransmogClone_406,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_407 {
+  item TransmogClone_407 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_407,
+    DisplayName = TransmogClone_407,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_408 {
+  item TransmogClone_408 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_408,
+    DisplayName = TransmogClone_408,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_409 {
+  item TransmogClone_409 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_409,
+    DisplayName = TransmogClone_409,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_410 {
+  item TransmogClone_410 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_410,
+    DisplayName = TransmogClone_410,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_411 {
+  item TransmogClone_411 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_411,
+    DisplayName = TransmogClone_411,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_412 {
+  item TransmogClone_412 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_412,
+    DisplayName = TransmogClone_412,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_413 {
+  item TransmogClone_413 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_413,
+    DisplayName = TransmogClone_413,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_414 {
+  item TransmogClone_414 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_414,
+    DisplayName = TransmogClone_414,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_415 {
+  item TransmogClone_415 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_415,
+    DisplayName = TransmogClone_415,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_416 {
+  item TransmogClone_416 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_416,
+    DisplayName = TransmogClone_416,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_417 {
+  item TransmogClone_417 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_417,
+    DisplayName = TransmogClone_417,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_418 {
+  item TransmogClone_418 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_418,
+    DisplayName = TransmogClone_418,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_419 {
+  item TransmogClone_419 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_419,
+    DisplayName = TransmogClone_419,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_420 {
+  item TransmogClone_420 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_420,
+    DisplayName = TransmogClone_420,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_421 {
+  item TransmogClone_421 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_421,
+    DisplayName = TransmogClone_421,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_422 {
+  item TransmogClone_422 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_422,
+    DisplayName = TransmogClone_422,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_423 {
+  item TransmogClone_423 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_423,
+    DisplayName = TransmogClone_423,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_424 {
+  item TransmogClone_424 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_424,
+    DisplayName = TransmogClone_424,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_425 {
+  item TransmogClone_425 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_425,
+    DisplayName = TransmogClone_425,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_426 {
+  item TransmogClone_426 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_426,
+    DisplayName = TransmogClone_426,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_427 {
+  item TransmogClone_427 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_427,
+    DisplayName = TransmogClone_427,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_428 {
+  item TransmogClone_428 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_428,
+    DisplayName = TransmogClone_428,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_429 {
+  item TransmogClone_429 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_429,
+    DisplayName = TransmogClone_429,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_430 {
+  item TransmogClone_430 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_430,
+    DisplayName = TransmogClone_430,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_431 {
+  item TransmogClone_431 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_431,
+    DisplayName = TransmogClone_431,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_432 {
+  item TransmogClone_432 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_432,
+    DisplayName = TransmogClone_432,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_433 {
+  item TransmogClone_433 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_433,
+    DisplayName = TransmogClone_433,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_434 {
+  item TransmogClone_434 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_434,
+    DisplayName = TransmogClone_434,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_435 {
+  item TransmogClone_435 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_435,
+    DisplayName = TransmogClone_435,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_436 {
+  item TransmogClone_436 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_436,
+    DisplayName = TransmogClone_436,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_437 {
+  item TransmogClone_437 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_437,
+    DisplayName = TransmogClone_437,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_438 {
+  item TransmogClone_438 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_438,
+    DisplayName = TransmogClone_438,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_439 {
+  item TransmogClone_439 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_439,
+    DisplayName = TransmogClone_439,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_440 {
+  item TransmogClone_440 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_440,
+    DisplayName = TransmogClone_440,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_441 {
+  item TransmogClone_441 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_441,
+    DisplayName = TransmogClone_441,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_442 {
+  item TransmogClone_442 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_442,
+    DisplayName = TransmogClone_442,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_443 {
+  item TransmogClone_443 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_443,
+    DisplayName = TransmogClone_443,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_444 {
+  item TransmogClone_444 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_444,
+    DisplayName = TransmogClone_444,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_445 {
+  item TransmogClone_445 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_445,
+    DisplayName = TransmogClone_445,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_446 {
+  item TransmogClone_446 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_446,
+    DisplayName = TransmogClone_446,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_447 {
+  item TransmogClone_447 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_447,
+    DisplayName = TransmogClone_447,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_448 {
+  item TransmogClone_448 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_448,
+    DisplayName = TransmogClone_448,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_449 {
+  item TransmogClone_449 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_449,
+    DisplayName = TransmogClone_449,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_450 {
+  item TransmogClone_450 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_450,
+    DisplayName = TransmogClone_450,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_451 {
+  item TransmogClone_451 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_451,
+    DisplayName = TransmogClone_451,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_452 {
+  item TransmogClone_452 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_452,
+    DisplayName = TransmogClone_452,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_453 {
+  item TransmogClone_453 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_453,
+    DisplayName = TransmogClone_453,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_454 {
+  item TransmogClone_454 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_454,
+    DisplayName = TransmogClone_454,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_455 {
+  item TransmogClone_455 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_455,
+    DisplayName = TransmogClone_455,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_456 {
+  item TransmogClone_456 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_456,
+    DisplayName = TransmogClone_456,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_457 {
+  item TransmogClone_457 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_457,
+    DisplayName = TransmogClone_457,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_458 {
+  item TransmogClone_458 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_458,
+    DisplayName = TransmogClone_458,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_459 {
+  item TransmogClone_459 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_459,
+    DisplayName = TransmogClone_459,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_460 {
+  item TransmogClone_460 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_460,
+    DisplayName = TransmogClone_460,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_461 {
+  item TransmogClone_461 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_461,
+    DisplayName = TransmogClone_461,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_462 {
+  item TransmogClone_462 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_462,
+    DisplayName = TransmogClone_462,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_463 {
+  item TransmogClone_463 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_463,
+    DisplayName = TransmogClone_463,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_464 {
+  item TransmogClone_464 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_464,
+    DisplayName = TransmogClone_464,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_465 {
+  item TransmogClone_465 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_465,
+    DisplayName = TransmogClone_465,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_466 {
+  item TransmogClone_466 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_466,
+    DisplayName = TransmogClone_466,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_467 {
+  item TransmogClone_467 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_467,
+    DisplayName = TransmogClone_467,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_468 {
+  item TransmogClone_468 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_468,
+    DisplayName = TransmogClone_468,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_469 {
+  item TransmogClone_469 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_469,
+    DisplayName = TransmogClone_469,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_470 {
+  item TransmogClone_470 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_470,
+    DisplayName = TransmogClone_470,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_471 {
+  item TransmogClone_471 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_471,
+    DisplayName = TransmogClone_471,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_472 {
+  item TransmogClone_472 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_472,
+    DisplayName = TransmogClone_472,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_473 {
+  item TransmogClone_473 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_473,
+    DisplayName = TransmogClone_473,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_474 {
+  item TransmogClone_474 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_474,
+    DisplayName = TransmogClone_474,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_475 {
+  item TransmogClone_475 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_475,
+    DisplayName = TransmogClone_475,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_476 {
+  item TransmogClone_476 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_476,
+    DisplayName = TransmogClone_476,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_477 {
+  item TransmogClone_477 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_477,
+    DisplayName = TransmogClone_477,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_478 {
+  item TransmogClone_478 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_478,
+    DisplayName = TransmogClone_478,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_479 {
+  item TransmogClone_479 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_479,
+    DisplayName = TransmogClone_479,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_480 {
+  item TransmogClone_480 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_480,
+    DisplayName = TransmogClone_480,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_481 {
+  item TransmogClone_481 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_481,
+    DisplayName = TransmogClone_481,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_482 {
+  item TransmogClone_482 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_482,
+    DisplayName = TransmogClone_482,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_483 {
+  item TransmogClone_483 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_483,
+    DisplayName = TransmogClone_483,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_484 {
+  item TransmogClone_484 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_484,
+    DisplayName = TransmogClone_484,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_485 {
+  item TransmogClone_485 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_485,
+    DisplayName = TransmogClone_485,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_486 {
+  item TransmogClone_486 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_486,
+    DisplayName = TransmogClone_486,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_487 {
+  item TransmogClone_487 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_487,
+    DisplayName = TransmogClone_487,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_488 {
+  item TransmogClone_488 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_488,
+    DisplayName = TransmogClone_488,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_489 {
+  item TransmogClone_489 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_489,
+    DisplayName = TransmogClone_489,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_490 {
+  item TransmogClone_490 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_490,
+    DisplayName = TransmogClone_490,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_491 {
+  item TransmogClone_491 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_491,
+    DisplayName = TransmogClone_491,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_492 {
+  item TransmogClone_492 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_492,
+    DisplayName = TransmogClone_492,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_493 {
+  item TransmogClone_493 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_493,
+    DisplayName = TransmogClone_493,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_494 {
+  item TransmogClone_494 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_494,
+    DisplayName = TransmogClone_494,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_495 {
+  item TransmogClone_495 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_495,
+    DisplayName = TransmogClone_495,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_496 {
+  item TransmogClone_496 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_496,
+    DisplayName = TransmogClone_496,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_497 {
+  item TransmogClone_497 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_497,
+    DisplayName = TransmogClone_497,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_498 {
+  item TransmogClone_498 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_498,
+    DisplayName = TransmogClone_498,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_499 {
+  item TransmogClone_499 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_499,
+    DisplayName = TransmogClone_499,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,
     Weight = 0,
   }
-  item TransmogHide_500 {
+  item TransmogClone_500 {
     DisplayCategory = Transmog,
     Type = Clothing,
-    DisplayName = TransmogHide_500,
+    DisplayName = TransmogClone_500,
     ClothingItem = InvisibleItem,
     BodyLocation = Transmog_Hidden,
     Icon = NoseRing_Gold,

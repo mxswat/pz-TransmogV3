@@ -1,0 +1,5005 @@
+module TransmogV3 {
+	imports	{
+		Base
+	}
+  item TransmogCosmetic_1 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_1,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_2 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_2,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_3 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_3,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_4 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_4,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_5 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_5,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_6 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_6,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_7 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_7,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_8 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_8,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_9 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_9,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_10 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_10,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_11 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_11,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_12 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_12,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_13 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_13,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_14 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_14,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_15 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_15,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_16 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_16,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_17 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_17,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_18 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_18,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_19 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_19,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_20 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_20,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_21 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_21,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_22 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_22,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_23 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_23,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_24 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_24,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_25 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_25,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_26 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_26,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_27 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_27,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_28 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_28,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_29 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_29,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_30 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_30,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_31 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_31,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_32 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_32,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_33 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_33,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_34 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_34,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_35 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_35,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_36 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_36,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_37 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_37,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_38 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_38,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_39 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_39,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_40 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_40,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_41 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_41,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_42 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_42,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_43 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_43,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_44 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_44,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_45 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_45,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_46 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_46,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_47 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_47,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_48 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_48,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_49 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_49,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_50 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_50,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_51 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_51,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_52 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_52,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_53 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_53,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_54 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_54,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_55 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_55,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_56 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_56,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_57 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_57,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_58 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_58,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_59 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_59,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_60 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_60,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_61 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_61,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_62 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_62,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_63 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_63,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_64 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_64,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_65 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_65,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_66 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_66,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_67 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_67,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_68 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_68,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_69 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_69,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_70 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_70,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_71 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_71,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_72 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_72,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_73 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_73,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_74 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_74,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_75 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_75,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_76 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_76,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_77 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_77,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_78 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_78,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_79 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_79,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_80 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_80,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_81 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_81,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_82 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_82,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_83 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_83,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_84 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_84,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_85 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_85,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_86 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_86,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_87 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_87,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_88 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_88,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_89 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_89,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_90 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_90,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_91 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_91,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_92 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_92,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_93 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_93,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_94 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_94,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_95 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_95,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_96 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_96,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_97 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_97,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_98 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_98,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_99 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_99,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_100 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_100,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_101 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_101,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_102 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_102,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_103 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_103,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_104 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_104,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_105 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_105,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_106 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_106,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_107 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_107,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_108 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_108,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_109 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_109,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_110 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_110,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_111 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_111,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_112 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_112,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_113 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_113,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_114 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_114,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_115 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_115,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_116 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_116,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_117 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_117,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_118 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_118,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_119 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_119,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_120 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_120,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_121 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_121,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_122 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_122,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_123 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_123,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_124 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_124,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_125 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_125,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_126 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_126,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_127 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_127,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_128 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_128,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_129 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_129,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_130 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_130,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_131 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_131,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_132 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_132,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_133 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_133,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_134 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_134,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_135 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_135,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_136 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_136,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_137 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_137,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_138 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_138,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_139 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_139,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_140 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_140,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_141 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_141,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_142 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_142,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_143 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_143,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_144 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_144,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_145 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_145,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_146 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_146,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_147 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_147,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_148 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_148,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_149 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_149,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_150 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_150,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_151 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_151,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_152 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_152,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_153 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_153,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_154 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_154,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_155 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_155,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_156 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_156,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_157 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_157,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_158 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_158,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_159 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_159,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_160 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_160,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_161 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_161,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_162 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_162,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_163 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_163,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_164 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_164,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_165 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_165,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_166 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_166,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_167 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_167,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_168 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_168,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_169 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_169,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_170 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_170,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_171 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_171,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_172 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_172,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_173 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_173,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_174 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_174,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_175 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_175,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_176 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_176,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_177 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_177,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_178 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_178,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_179 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_179,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_180 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_180,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_181 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_181,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_182 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_182,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_183 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_183,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_184 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_184,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_185 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_185,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_186 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_186,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_187 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_187,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_188 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_188,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_189 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_189,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_190 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_190,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_191 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_191,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_192 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_192,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_193 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_193,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_194 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_194,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_195 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_195,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_196 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_196,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_197 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_197,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_198 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_198,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_199 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_199,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_200 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_200,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_201 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_201,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_202 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_202,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_203 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_203,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_204 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_204,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_205 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_205,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_206 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_206,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_207 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_207,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_208 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_208,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_209 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_209,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_210 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_210,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_211 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_211,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_212 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_212,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_213 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_213,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_214 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_214,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_215 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_215,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_216 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_216,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_217 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_217,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_218 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_218,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_219 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_219,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_220 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_220,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_221 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_221,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_222 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_222,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_223 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_223,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_224 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_224,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_225 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_225,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_226 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_226,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_227 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_227,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_228 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_228,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_229 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_229,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_230 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_230,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_231 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_231,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_232 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_232,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_233 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_233,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_234 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_234,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_235 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_235,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_236 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_236,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_237 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_237,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_238 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_238,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_239 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_239,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_240 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_240,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_241 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_241,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_242 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_242,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_243 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_243,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_244 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_244,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_245 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_245,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_246 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_246,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_247 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_247,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_248 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_248,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_249 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_249,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_250 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_250,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_251 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_251,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_252 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_252,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_253 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_253,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_254 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_254,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_255 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_255,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_256 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_256,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_257 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_257,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_258 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_258,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_259 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_259,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_260 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_260,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_261 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_261,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_262 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_262,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_263 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_263,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_264 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_264,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_265 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_265,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_266 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_266,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_267 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_267,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_268 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_268,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_269 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_269,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_270 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_270,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_271 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_271,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_272 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_272,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_273 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_273,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_274 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_274,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_275 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_275,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_276 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_276,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_277 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_277,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_278 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_278,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_279 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_279,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_280 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_280,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_281 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_281,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_282 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_282,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_283 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_283,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_284 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_284,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_285 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_285,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_286 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_286,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_287 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_287,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_288 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_288,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_289 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_289,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_290 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_290,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_291 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_291,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_292 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_292,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_293 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_293,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_294 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_294,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_295 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_295,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_296 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_296,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_297 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_297,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_298 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_298,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_299 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_299,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_300 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_300,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_301 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_301,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_302 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_302,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_303 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_303,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_304 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_304,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_305 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_305,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_306 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_306,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_307 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_307,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_308 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_308,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_309 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_309,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_310 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_310,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_311 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_311,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_312 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_312,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_313 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_313,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_314 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_314,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_315 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_315,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_316 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_316,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_317 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_317,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_318 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_318,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_319 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_319,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_320 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_320,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_321 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_321,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_322 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_322,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_323 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_323,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_324 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_324,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_325 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_325,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_326 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_326,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_327 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_327,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_328 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_328,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_329 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_329,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_330 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_330,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_331 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_331,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_332 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_332,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_333 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_333,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_334 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_334,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_335 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_335,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_336 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_336,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_337 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_337,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_338 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_338,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_339 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_339,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_340 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_340,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_341 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_341,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_342 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_342,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_343 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_343,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_344 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_344,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_345 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_345,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_346 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_346,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_347 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_347,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_348 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_348,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_349 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_349,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_350 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_350,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_351 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_351,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_352 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_352,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_353 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_353,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_354 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_354,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_355 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_355,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_356 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_356,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_357 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_357,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_358 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_358,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_359 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_359,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_360 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_360,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_361 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_361,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_362 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_362,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_363 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_363,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_364 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_364,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_365 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_365,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_366 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_366,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_367 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_367,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_368 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_368,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_369 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_369,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_370 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_370,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_371 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_371,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_372 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_372,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_373 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_373,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_374 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_374,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_375 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_375,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_376 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_376,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_377 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_377,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_378 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_378,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_379 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_379,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_380 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_380,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_381 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_381,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_382 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_382,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_383 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_383,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_384 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_384,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_385 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_385,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_386 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_386,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_387 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_387,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_388 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_388,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_389 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_389,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_390 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_390,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_391 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_391,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_392 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_392,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_393 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_393,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_394 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_394,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_395 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_395,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_396 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_396,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_397 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_397,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_398 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_398,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_399 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_399,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_400 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_400,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_401 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_401,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_402 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_402,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_403 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_403,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_404 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_404,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_405 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_405,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_406 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_406,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_407 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_407,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_408 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_408,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_409 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_409,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_410 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_410,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_411 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_411,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_412 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_412,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_413 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_413,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_414 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_414,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_415 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_415,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_416 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_416,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_417 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_417,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_418 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_418,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_419 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_419,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_420 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_420,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_421 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_421,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_422 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_422,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_423 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_423,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_424 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_424,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_425 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_425,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_426 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_426,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_427 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_427,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_428 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_428,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_429 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_429,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_430 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_430,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_431 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_431,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_432 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_432,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_433 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_433,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_434 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_434,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_435 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_435,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_436 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_436,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_437 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_437,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_438 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_438,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_439 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_439,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_440 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_440,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_441 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_441,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_442 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_442,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_443 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_443,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_444 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_444,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_445 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_445,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_446 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_446,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_447 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_447,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_448 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_448,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_449 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_449,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_450 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_450,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_451 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_451,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_452 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_452,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_453 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_453,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_454 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_454,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_455 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_455,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_456 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_456,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_457 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_457,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_458 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_458,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_459 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_459,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_460 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_460,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_461 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_461,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_462 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_462,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_463 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_463,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_464 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_464,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_465 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_465,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_466 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_466,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_467 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_467,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_468 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_468,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_469 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_469,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_470 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_470,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_471 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_471,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_472 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_472,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_473 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_473,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_474 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_474,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_475 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_475,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_476 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_476,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_477 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_477,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_478 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_478,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_479 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_479,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_480 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_480,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_481 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_481,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_482 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_482,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_483 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_483,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_484 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_484,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_485 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_485,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_486 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_486,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_487 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_487,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_488 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_488,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_489 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_489,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_490 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_490,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_491 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_491,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_492 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_492,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_493 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_493,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_494 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_494,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_495 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_495,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_496 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_496,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_497 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_497,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_498 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_498,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_499 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_499,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+  item TransmogCosmetic_500 {
+    DisplayCategory = Transmog,
+    Type = Clothing,
+    Cosmetic = TRUE,
+    DisplayName = TransmogCosmetic_500,
+    ClothingItem = InvisibleItem,
+    BodyLocation = Transmog_Cosmetic,
+    Icon = NoseRing_Gold,
+    Weight = 0,
+  }
+}

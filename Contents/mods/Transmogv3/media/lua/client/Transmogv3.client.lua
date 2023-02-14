@@ -19,6 +19,16 @@ local canBeTransmogged = function(item)
   end
 end
 
+local joinArraylist = function (arrayList)
+  local value = ""
+  local size = arrayList:size() - 1
+  for i = 0, size do
+    local type = tostring(arrayList:get(i))
+    value = value..type..(size < i and ";" or "")
+  end
+  return value
+end
+
 local manager = ScriptManager.instance
 local function TransmogItem(sourceItem)
   local transmogScriptItem = manager:getItem("TransmogV3.TransmogHide_1");
@@ -37,15 +47,15 @@ local function TransmogItem(sourceItem)
     ["NeckProtectionModifier"] = "NeckProtectionModifier",
     ["ScratchDefense"] = "ScratchDefense",
     ["ChanceToFall"] = "ChanceToFall",
-    ["Windresistance"] = "WindResistance", -- <- Devs typo
+    ["Windresistance"] = "WindResistance", -- <- Devs typo "r/R"
     ["WaterResistance"] = "WaterResistance",
     ["FabricType"] = "FabricType",
     ["ActualWeight"] = "Weight",
+    ["Name"] = "DisplayName",
     -- ["RemoveOnBroken"] = "RemoveOnBroken", -- Unused
     -- ["BloodClothingType"] = "BloodLocation", -- <- Why the this has a different name???
   }
 
-  -- BloodLocation
   for invItemKey, DoParamKey in pairs(params) do
     local getParam = "get" .. invItemKey;
     if sourceItem[getParam] then
@@ -55,20 +65,19 @@ local function TransmogItem(sourceItem)
     end
   end
 
-  local bloodClothingType = sourceItem:getBloodClothingType()
-  local value = ""
-  local size = bloodClothingType:size() - 1
-  for i = 0, size do
-    local type = tostring(bloodClothingType:get(i))
-    value = value..type..(size < i and ";" or "")
-  end
 
-  print("BloodLocation = "..value)
-  transmogScriptItem:DoParam("BloodLocation = " .. value);
+  local icon = transmogScriptItem:getIcon()
+  if transmogScriptItem:getIconsForTexture() and not transmogScriptItem:getIconsForTexture():isEmpty() then
+      icon = transmogScriptItem:getIconsForTexture():get(0)
+  end
+  transmogScriptItem:DoParam("Icon = " .. tostring(icon));
+
+  
+  local bloodClothingType = sourceItem:getBloodClothingType()
+  transmogScriptItem:DoParam("BloodLocation = " .. joinArraylist(bloodClothingType));
+
 
   local spawnedItem = getPlayer():getInventory():AddItem("TransmogV3.TransmogHide_1");
-
-  spawnedItem:setName(sourceItem:getName());
 end
 
 local old_ISInventoryPaneContextMenu_createMenu = ISInventoryPaneContextMenu.createMenu

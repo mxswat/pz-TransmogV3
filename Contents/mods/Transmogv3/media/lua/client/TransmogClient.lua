@@ -4,7 +4,7 @@
 -- server syncs this with other player
 -- win?
 
-local canBeTransmogged = function(item)
+function CanBeTransmogged(item)
   if item.getScriptItem then
     item = item:getScriptItem()
   end
@@ -30,7 +30,7 @@ local joinArraylist = function (arrayList)
 end
 
 local manager = ScriptManager.instance
-local function TransmogItem(sourceItem)
+function TransmogItem(sourceItem)
   print("Transmogging: "..sourceItem:getName())
   local toSpawn = "TransmogV3.TransmogClone_1"
   local sourceItemScriptItem = sourceItem:getScriptItem()
@@ -88,26 +88,3 @@ local function TransmogItem(sourceItem)
   -- Spawn the item
   local spawnedItem = getPlayer():getInventory():AddItem(toSpawn);
 end
-
-local TransmogContextMenu = function(player, context, items)
-  local testItem = nil
-  local clothing = nil
-  for _, v in ipairs(items) do
-    testItem = v;
-    if not instanceof(v, "InventoryItem") then
-      testItem = v.items[1];
-    end
-    if canBeTransmogged(testItem) then
-      clothing = testItem;
-    end
-  end
-
-  if tostring(#items) == "1" and clothing then
-    local transmog = context:addOption("Transmog", clothing, TransmogItem);
-  end
-
-  return context
-end
-
-
-Events.OnFillInventoryObjectContextMenu.Add(TransmogContextMenu);

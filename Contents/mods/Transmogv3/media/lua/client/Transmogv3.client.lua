@@ -89,9 +89,7 @@ local function TransmogItem(sourceItem)
   local spawnedItem = getPlayer():getInventory():AddItem(toSpawn);
 end
 
-local old_ISInventoryPaneContextMenu_createMenu = ISInventoryPaneContextMenu.createMenu
-ISInventoryPaneContextMenu.createMenu = function(player, isInPlayerInventory, items, x, y, origin)
-  local context = old_ISInventoryPaneContextMenu_createMenu(player, isInPlayerInventory, items, x, y, origin)
+local TransmogContextMenu = function(player, context, items)
   local testItem = nil
   local clothing = nil
   for _, v in ipairs(items) do
@@ -110,3 +108,6 @@ ISInventoryPaneContextMenu.createMenu = function(player, isInPlayerInventory, it
 
   return context
 end
+
+
+Events.OnFillInventoryObjectContextMenu.Add(TransmogContextMenu);

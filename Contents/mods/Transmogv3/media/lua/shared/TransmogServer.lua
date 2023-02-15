@@ -5,12 +5,17 @@ function Transmog:newClonedItem(sourceItemName)
   local TransmogClones = ModData.getOrCreate("TransmogClones");
   local availableId = #TransmogClones + 1
 
+  print("New Transmog clone with id: "..availableId)
+
   if availableId > 500 then
     print('Transmog Error: limit of items reached (Max 500)')
     return
   end
 
-  TransmogData[sourceItemName] = sourceItemName
+  TransmogData['TransmogClone_'..availableId] = {
+    source = sourceItemName,
+    appearance = sourceItemName,
+  }
   TransmogClones[availableId] = sourceItemName
 
   ModData.add("TransmogData", TransmogData)
@@ -39,6 +44,11 @@ Commands.Transmog.RequestTransmog = function(source, args) --- Event Triggered f
   end
 
   Transmog:newClonedItem(itemName)
+end
+
+Commands.Transmog.ResetModData = function(source, args) --- Event Triggered from ../client/Transmog.lua#L21-L23.
+  ModData.remove("TransmogData")
+  ModData.transmit("TransmogData")
 end
 
 local onClientCommand = function(module, command, source, args) -- Events Constructor.

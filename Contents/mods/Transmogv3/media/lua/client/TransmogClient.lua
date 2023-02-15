@@ -11,7 +11,7 @@ function CanBeTransmogged(item)
 
   local typeString = item:getTypeString()
   local isClothing = typeString == 'Clothing'
-  local isBackpack = typeString == "Container" and item:getBodyLocation()
+  local isBackpack = false -- typeString == "Container" and item:getBodyLocation() -- Not for now
   -- if it has no clothingItemAsset there is no point in trasmoging it since it will not be transmogged anyway
   local clothingItemAsset = item:getClothingItemAsset()
   if (isClothing or isBackpack) and clothingItemAsset ~= nil then

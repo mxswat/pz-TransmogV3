@@ -1,5 +1,12 @@
 require('TransmogClient')
 
+local function requestTransmog(clothing)
+  local fullname = clothing:getScriptItem():getFullName()
+  sendClientCommand("Transmog", "RequestTransmog", {
+    itemName = fullname
+  });
+end
+
 local TransmogContextMenu = function(player, context, items)
   local testItem = nil
   local clothing = nil
@@ -14,7 +21,7 @@ local TransmogContextMenu = function(player, context, items)
   end
 
   if tostring(#items) == "1" and clothing then
-    local transmog = context:addOption("Transmog", clothing, TransmogItem);
+    local transmog = context:addOption("Transmog", clothing, requestTransmog);
   end
 
   return context

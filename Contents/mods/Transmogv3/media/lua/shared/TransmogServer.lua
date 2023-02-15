@@ -1,19 +1,44 @@
+local Transmog = {}
+
+function Transmog:newClonedItem(sourceItemName)
+  local TransmogData = ModData.getOrCreate("TransmogData");
+  local TransmogClones = ModData.getOrCreate("TransmogClones");
+  local availableId = #TransmogClones + 1
+
+  if availableId > 500 then
+    print('Transmog Error: limit of items reached (Max 500)')
+    return
+  end
+
+  TransmogData[sourceItemName] = sourceItemName
+  TransmogClones[availableId] = sourceItemName
+
+  ModData.add("TransmogData", TransmogData)
+
+  ModData.transmit("TransmogData")
+end
+
+function Transmog:itemHasClone(sourceItemName)
+  local TransmogData = ModData.getOrCreate("TransmogData");
+  if TransmogData[sourceItemName] then
+    return true
+  end
+  return false
+end
+
 local Commands = {};
 Commands.Transmog = {};
-
 Commands.Transmog.RequestTransmog = function(source, args) --- Event Triggered from ../client/Transmog.lua#L21-L23.
   local sourceId = source:getOnlineID(); -- Player id who triggered the event.
   local itemName = args.itemName;
 
   print("Player "..source:getUsername().."[".. sourceId .."] requested transmog for: ".. itemName)
 
-  local TransmogData = ModData.getOrCreate("TransmogData");
-  if TransmogData[itemName] then
+  if Transmog:itemHasClone(itemName) then
     return -- it's already transmogged
   end
-  -- Not transmogged - Find first available TransmogV3.TransmogClone_1
-  local TransmogClones = ModData.getOrCreate("TransmogClones");
-  print('#TransmogClones = '..#TransmogClones)
+
+  Transmog:newClonedItem(itemName)
 end
 
 local onClientCommand = function(module, command, source, args) -- Events Constructor.

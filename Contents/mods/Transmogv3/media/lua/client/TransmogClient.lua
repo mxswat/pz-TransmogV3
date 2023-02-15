@@ -19,19 +19,19 @@ function CanBeTransmogged(item)
   end
 end
 
-local joinArraylist = function (arrayList)
+local joinArraylist = function(arrayList)
   local value = ""
   local size = arrayList:size() - 1
   for i = 0, size do
     local type = tostring(arrayList:get(i))
-    value = value..type..(size < i and ";" or "")
+    value = value .. type .. (size < i and ";" or "")
   end
   return value
 end
 
 local manager = ScriptManager.instance
 function TransmogItem(sourceItem)
-  print("Transmogging: "..sourceItem:getName())
+  print("Transmogging: " .. sourceItem:getName())
   local toSpawn = "TransmogV3.TransmogClone_1"
   local sourceItemScriptItem = sourceItem:getScriptItem()
   local transmogScriptItem = manager:getItem(toSpawn);
@@ -68,23 +68,30 @@ function TransmogItem(sourceItem)
     end
   end
 
-  --[ DoParam Fixes ]--
-  -- BloodLocation
-  local bloodClothingType = "BloodLocation = " .. joinArraylist(sourceItem:getBloodClothingType()) 
+  --[ DoParam Extra Fixes ]--
+  local bloodClothingType = "BloodLocation = " .. joinArraylist(sourceItem:getBloodClothingType())
   print(bloodClothingType)
   transmogScriptItem:DoParam(bloodClothingType);
 
-  -- Icon
   local icon = sourceItemScriptItem:getIcon()
   if sourceItemScriptItem:getIconsForTexture() and not transmogScriptItem:getIconsForTexture():isEmpty() then
-      icon = sourceItemScriptItem:getIconsForTexture():get(0)
+    icon = sourceItemScriptItem:getIconsForTexture():get(0)
   end
   transmogScriptItem:DoParam("Icon = " .. tostring(icon));
 
   --[ Other Fixes ]--
-  -- setDisplayName fixes
-  transmogScriptItem:setDisplayName(sourceItem:getName()..' +Transmog')
+  transmogScriptItem:setDisplayName(sourceItem:getName() .. ' +Transmog')
 
   -- Spawn the item
   local spawnedItem = getPlayer():getInventory():AddItem(toSpawn);
 end
+
+local function onReceiveGlobalModData(module, packet)
+  if module ~= "TransmogData" or not packet then
+    return
+  end
+
+  ModData.add("TransmogData", packet)
+end
+
+Events.OnReceiveGlobalModData.Add(onReceiveGlobalModData);

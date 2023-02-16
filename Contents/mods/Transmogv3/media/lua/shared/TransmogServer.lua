@@ -3,66 +3,65 @@ local Transmog = {}
 function Transmog:newClonedItem(sourceItemName)
   local TransmogData = ModData.getOrCreate("TransmogData");
   local TransmogClones = ModData.getOrCreate("TransmogClones");
-  local availableId = #TransmogClones + 1
+  local TransmogSources = ModData.getOrCreate("TransmogSources");
+  local cloneId = #TransmogClones + 1
 
-  print("New Transmog clone with id: " .. availableId)
+  print("New Transmog clone with id: " .. cloneId)
 
-  if availableId > 500 then
+  if cloneId > 500 then
     print('Transmog Error: limit of items reached (Max 500)')
     return
   end
 
-  local cloneId = 'TransmogV3.TransmogClone_' .. availableId
+  local cloneName = 'TransmogV3.TransmogClone_' .. cloneId
 
-  TransmogData[cloneId] = {
+  TransmogData[cloneName] = {
     source = sourceItemName,
     appearance = sourceItemName,
   }
-  TransmogClones[availableId] = sourceItemName
+  TransmogClones[cloneId] = sourceItemName -- Use id as number, so I can use the `#` to count the items
+  TransmogSources[sourceItemName] = cloneName
 
   ModData.add("TransmogData", TransmogData)
 
   ModData.transmit("TransmogData")
 
-  return cloneId
+  return cloneName
 end
 
-function Transmog:itemHasClone(sourceItemName)
-  local TransmogData = ModData.getOrCreate("TransmogData");
-  if TransmogData[sourceItemName] then
-    return true
-  end
-  return false
+function Transmog:getCloneName(sourceItemName)
+  local TransmogSources = ModData.getOrCreate("TransmogSources");
+  return TransmogSources[sourceItemName]
 end
 
 local Commands = {};
 Commands.Transmog = {};
-Commands.Transmog.RequestTransmog = function(source, args) --- Event Triggered from ../client/Transmog.lua#L21-L23.
-  local sourceId = source:getOnlineID(); -- Player id who triggered the event.
+Commands.Transmog.RequestTransmog = function(source, args)
   local itemName = args.itemName;
+  
+  local sourceId = source:getOnlineID();
+  print("Player " .. source:getUsername() .. "[" .. sourceId .. "] requested transmog clone for: " .. itemName)
 
-  print("Player " .. source:getUsername() .. "[" .. sourceId .. "] requested transmog for: " .. itemName)
-
-  if Transmog:itemHasClone(itemName) then
-    return -- it's already transmogged
+  local cloneName = Transmog:getCloneName(itemName)
+  if not cloneName then
+    cloneName = Transmog:newClonedItem(itemName)
   end
 
-  local cloneId = Transmog:newClonedItem(itemName)
-
   sendServerCommand(source, "Transmog", "GivePlayerTransmogClone", {
-    cloneId = cloneId,
+    cloneName = cloneName,
     sourceItemName = itemName
   });
 end
 
-Commands.Transmog.ResetModData = function(source, args) --- Event Triggered from ../client/Transmog.lua#L21-L23.
+Commands.Transmog.ResetModData = function(source, args)
   ModData.add("TransmogData", {})
   ModData.transmit("TransmogData")
 
-  ModData.add("TransmogClones", {})
+  ModData.remove("TransmogClones", {})
+  ModData.remove("TransmogSources", {})
 end
 
-local onClientCommand = function(module, command, source, args) -- Events Constructor.
+local onClientCommand = function(module, command, source, args)
   if Commands[module] and Commands[module][command] then
     Commands[module][command](source, args);
   end

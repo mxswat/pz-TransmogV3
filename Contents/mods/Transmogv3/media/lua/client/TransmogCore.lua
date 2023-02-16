@@ -6,6 +6,10 @@ function CanBeTransmogged(item)
     item = item:getScriptItem()
   end
 
+  if item:getModuleName() == "TransmogV3" then
+    return
+  end
+
   local typeString = item:getTypeString()
   local isClothing = typeString == 'Clothing'
   local isBackpack = false -- typeString == "Container" and item:getBodyLocation() -- Not for now
@@ -14,63 +18,6 @@ function CanBeTransmogged(item)
   if (isClothing or isBackpack) and clothingItemAsset ~= nil then
     return true
   end
-end
-
-local manager = ScriptManager.instance
-function TransmogItem(sourceItem)
-  print("Transmogging: " .. sourceItem:getName())
-  local toSpawn = "TransmogV3.TransmogClone_1"
-  local sourceItemScriptItem = sourceItem:getScriptItem()
-  local transmogScriptItem = manager:getItem(toSpawn);
-
-  local params = {
-    ["Temperature"] = "Temperature",
-    ["Insulation"] = "Insulation",
-    ["ConditionLowerChance"] = "ConditionLowerChance",
-    ["StompPower"] = "StompPower",
-    ["RunSpeedModifier"] = "RunSpeedModifier",
-    ["CombatSpeedModifier"] = "CombatSpeedModifier",
-    ["CanHaveHoles"] = "CanHaveHoles",
-    ["WeightWet"] = "WeightWet",
-    ["BiteDefense"] = "BiteDefense",
-    ["BulletDefense"] = "BulletDefense",
-    ["NeckProtectionModifier"] = "NeckProtectionModifier",
-    ["ScratchDefense"] = "ScratchDefense",
-    ["ChanceToFall"] = "ChanceToFall",
-    ["Windresistance"] = "WindResistance", -- <- Devs typo "r/R"
-    ["WaterResistance"] = "WaterResistance",
-    ["FabricType"] = "FabricType",
-    ["ActualWeight"] = "Weight",
-    ["BodyLocation"] = "BodyLocation",
-    -- ["RemoveOnBroken"] = "RemoveOnBroken", -- Unused
-    -- ["BloodClothingType"] = "BloodLocation", -- <- Why the this has a different name???
-  }
-
-  for invItemKey, DoParamKey in pairs(params) do
-    local getParam = "get" .. invItemKey;
-    if sourceItem[getParam] then
-      local value = tostring(sourceItem[getParam](sourceItem));
-      print(getParam .. ":" .. tostring(value));
-      transmogScriptItem:DoParam(DoParamKey .. " = " .. value);
-    end
-  end
-
-  --[ DoParam Extra Fixes ]--
-  local bloodClothingType = "BloodLocation = " .. joinArraylist(sourceItem:getBloodClothingType())
-  print(bloodClothingType)
-  transmogScriptItem:DoParam(bloodClothingType);
-
-  local icon = sourceItemScriptItem:getIcon()
-  if sourceItemScriptItem:getIconsForTexture() and not transmogScriptItem:getIconsForTexture():isEmpty() then
-    icon = sourceItemScriptItem:getIconsForTexture():get(0)
-  end
-  transmogScriptItem:DoParam("Icon = " .. tostring(icon));
-
-  --[ Other Fixes ]--
-  transmogScriptItem:setDisplayName(sourceItem:getName() .. ' +Transmog')
-
-  -- Spawn the item
-  local spawnedItem = getPlayer():getInventory():AddItem(toSpawn);
 end
 
 function UpdateLocalTransmog()
@@ -90,7 +37,7 @@ function SetTransmogClone(cloneName, sourceItemName)
   local params = {
     ["Temperature"] = "Temperature",
     ["Insulation"] = "Insulation",
-    ["ConditionLowerChance"] = "ConditionLowerChance",
+    ["ConditionLowerChance"] = "ConditionLowerChanceOneIn",
     ["StompPower"] = "StompPower",
     ["RunSpeedModifier"] = "RunSpeedModifier",
     ["CombatSpeedModifier"] = "CombatSpeedModifier",
@@ -117,6 +64,11 @@ function SetTransmogClone(cloneName, sourceItemName)
       local value = tostring(sourceItem[getParam](sourceItem));
       -- print(getParam .. ":" .. tostring(value));
       cloneScriptItem:DoParam(DoParamKey .. " = " .. value);
+
+      local setParam = "set" .. invItemKey;
+      if cloneScriptItem[setParam] then
+        cloneScriptItem[setParam](cloneScriptItem, sourceItem[getParam](sourceItem));
+      end
     end
   end
 
@@ -131,7 +83,7 @@ function SetTransmogClone(cloneName, sourceItemName)
   end
   cloneScriptItem:DoParam("Icon = " .. tostring(icon));
 
-  cloneScriptItem:setDisplayName(sourceScriptItem:getName() .. ' +Transmog')
+  cloneScriptItem:setDisplayName(sourceItem:getName() .. '+Tmog')
 end
 
 function SetTransmogCloneAppearance(cloneName, appearanceItemName)
@@ -139,6 +91,4 @@ function SetTransmogCloneAppearance(cloneName, appearanceItemName)
   local appearanceScriptItem = manager:getItem(appearanceItemName);
 
   cloneScriptItem:setClothingItemAsset(appearanceScriptItem:getClothingItemAsset())
-
-  local spawnedItem = getPlayer():getInventory():AddItem(cloneName);
 end

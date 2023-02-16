@@ -5,25 +5,28 @@
 -- win?
 require('TransmogCore')
 
+function ResetTransmogModData() -- To use in the Command Console when needed
+  sendClientCommand("Transmog", "ResetModData", {});
+end
+
 local Commands = {};
 Commands.Transmog = {};
 
 Commands.Transmog.GivePlayerTransmogClone = function(args)
-  local cloneId = args.cloneId;
+  local cloneId = args.cloneName;
   local sourceItemName = args.sourceItemName;
 
+  local spawnedItem = getPlayer():getInventory():AddItem(args.cloneName);
 end
 
 local onServerCommand = function(module, command, args)
+  print('onServerCommand'..tostring(module)..tostring(command))
   if Commands[module] and Commands[module][command] then
     Commands[module][command](args)
   end
 end
 
-if isClient() then
-  Events.OnClientCommand.Add(onServerCommand);
-end
-
+Events.OnServerCommand.Add(onServerCommand);
 
 local function onReceiveGlobalModData(module, transmogData)
   if module ~= "TransmogData" or not transmogData then
@@ -37,6 +40,17 @@ end
 
 Events.OnReceiveGlobalModData.Add(onReceiveGlobalModData);
 
-function ResetTransmogModData()
-  sendClientCommand("Transmog", "ResetModData", {});
+local function OnLoad()
+  ModData.request("TransmogData")
+  print('OnLoad')
+  UpdateLocalTransmog()
 end
+
+Events.OnLoad.Add(OnLoad);
+
+local function OnGameStart()
+  ModData.request("TransmogData")
+  print('OnGameStart')
+  UpdateLocalTransmog()
+end
+Events.OnGameStart.Add(OnGameStart);

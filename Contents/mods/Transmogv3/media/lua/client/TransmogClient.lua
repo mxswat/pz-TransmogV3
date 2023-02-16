@@ -1,8 +1,8 @@
--- use one of the 0 to 1000 tmog item
--- tell the server that item_X is now transmogged to item Y -- Maybe use 2 script items files? One for Hidden, and one for Cosmetic? TransmogV3.items.txt
--- OR tell the server that item_X is now the hidden version of item Y
--- server syncs this with other player
--- win?
+-- Make all clothing invisible
+-- Use the clone items to generate the apperance items
+-- Sync it with other clients
+-- Win?
+
 require('TransmogCore')
 
 function ResetTransmogModData() -- To use in the Command Console when needed
@@ -20,7 +20,7 @@ Commands.Transmog.GivePlayerTransmogClone = function(args)
 end
 
 local onServerCommand = function(module, command, args)
-  print('onServerCommand'..tostring(module)..tostring(command))
+  print('onServerCommand' .. tostring(module) .. tostring(command))
   if Commands[module] and Commands[module][command] then
     Commands[module][command](args)
   end
@@ -40,17 +40,56 @@ end
 
 Events.OnReceiveGlobalModData.Add(onReceiveGlobalModData);
 
-local function OnLoad()
-  ModData.request("TransmogData")
-  print('OnLoad')
-  UpdateLocalTransmog()
+local function hasTransmoggableBodylocation(item)
+  local bodyLocation = item:getBodyLocation()
+
+  return bodyLocation ~= "ZedDmg"
+      and not string.find(bodyLocation, "MakeUp_")
+      and not string.find(bodyLocation, "Transmog_")
+      and not string.find(bodyLocation, "Hide_")
 end
 
-Events.OnLoad.Add(OnLoad);
-
-local function OnGameStart()
-  ModData.request("TransmogData")
-  print('OnGameStart')
-  UpdateLocalTransmog()
+local function isItemTransmoggable(item)
+  local typeString = item:getTypeString()
+  local isClothing = typeString == 'Clothing'
+  local isBackpack = false -- typeString == "Container" and item:getBodyLocation()
+  local isClothingItemAsset = item:getClothingItemAsset() ~= nil
+  local isWorldRender = item:isWorldRender()
+  local isNotCosmetic = not item:isCosmetic()
+  local isNotHidden = not item:isHidden()
+  local isNotTransmog = item:getModuleName() ~= "TransmogV3"
+  if (isClothing or isBackpack)
+      and hasTransmoggableBodylocation(item)
+      and isNotTransmog
+      and isWorldRender
+      and isClothingItemAsset
+      and isNotHidden
+      and isNotCosmetic then
+    return true
+  end
+  return false
 end
-Events.OnGameStart.Add(OnGameStart);
+
+local function patchAllClothing()
+  local sm = getScriptManager();
+  local allItems = sm:getAllItems()
+  local invisibleClothingItemAsset = sm:FindItem("TransmogV3.Hide_Everything"):getClothingItemAsset()
+
+  local validItemsCount = 0
+  local size = allItems:size() - 1;
+  for i = 0, size do
+    local item = allItems:get(i);
+    if isItemTransmoggable(item) then
+      item:setClothingItemAsset(invisibleClothingItemAsset)
+      validItemsCount = validItemsCount + 1
+    end
+  end
+
+  print('validItemsCount: '..tostring(validItemsCount))
+  local player = getPlayer();
+  player:resetModelNextFrame();
+end
+
+Events.OnLoad.Add(patchAllClothing);
+
+-- getWornItems

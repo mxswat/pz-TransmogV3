@@ -1,72 +1,45 @@
-local Transmog = {}
+local TransmogV3 = require('TransmogV3')
+local scriptManager = getScriptManager();
 
-function Transmog:newClonedItem(sourceItemName)
-  local TransmogData = ModData.getOrCreate("TransmogData");
-  local TransmogClones = ModData.getOrCreate("TransmogClones");
-  local TransmogSources = ModData.getOrCreate("TransmogSources");
-  local cloneId = #TransmogClones + 1
+local function getTransmogModData()
+  local TransmogModData = ModData.get("TransmogModData");
+  return TransmogModData or {
+        itemToCloneMap = {},
+        cloneToItemMap = {},
+      }
+end
 
-  print("New Transmog clone with id: " .. cloneId)
+local function generateTransmogModData()
+  print('TransmogV3:generateTransmogModData')
+  local allItems = scriptManager:getAllItems()
+  local TransmogModData = getTransmogModData()
+  local itemToCloneMap = TransmogModData.itemToCloneMap or {}
+  local cloneToItemMap = TransmogModData.cloneToItemMap or {}
 
-  if cloneId > 500 then
-    print('Transmog Error: limit of items reached (Max 500)')
-    return
+  local serverTransmoggedItemCount = 0
+  local size = allItems:size() - 1;
+  for i = 0, size do
+    local item = allItems:get(i);
+    if TransmogV3.isItemTransmoggable(item) then
+      local fullName = item:getFullName()
+      serverTransmoggedItemCount = serverTransmoggedItemCount + 1
+      if not itemToCloneMap[fullName] then
+        table.insert(cloneToItemMap, fullName)
+        itemToCloneMap[fullName] = #cloneToItemMap
+      end
+    end
   end
 
-  local cloneName = 'TransmogV3.TransmogClone_' .. cloneId
-
-  TransmogData[cloneName] = {
-    source = sourceItemName,
-    appearance = sourceItemName,
-  }
-  TransmogClones[cloneId] = sourceItemName -- Use id as number, so I can use the `#` to count the items
-  TransmogSources[sourceItemName] = cloneName
-
-  ModData.add("TransmogData", TransmogData)
-
-  ModData.transmit("TransmogData")
-
-  return cloneName
-end
-
-function Transmog:getCloneName(sourceItemName)
-  local TransmogSources = ModData.getOrCreate("TransmogSources");
-  return TransmogSources[sourceItemName]
-end
-
-local Commands = {};
-Commands.Transmog = {};
-Commands.Transmog.RequestTransmog = function(source, args)
-  local itemName = args.itemName;
-  
-  local sourceId = source:getOnlineID();
-  print("Player " .. source:getUsername() .. "[" .. sourceId .. "] requested transmog clone for: " .. itemName)
-
-  local cloneName = Transmog:getCloneName(itemName)
-  if not cloneName then
-    cloneName = Transmog:newClonedItem(itemName)
+  if #cloneToItemMap >= 5000 then
+    print("TransmogV3 ERROR: Reached limit of transmoggable items")
   end
 
-  sendServerCommand(source, "Transmog", "GivePlayerTransmogClone", {
-    cloneName = cloneName,
-    sourceItemName = itemName
-  });
+  ModData.add("TransmogModData", TransmogModData)
+  ModData.transmit("TransmogModData")
+
+  print('TransmogV3 Transmogged items count: ' .. tostring(serverTransmoggedItemCount))
 end
 
-Commands.Transmog.ResetModData = function(source, args)
-  ModData.add("TransmogData", {})
-  ModData.transmit("TransmogData")
-
-  ModData.remove("TransmogClones", {})
-  ModData.remove("TransmogSources", {})
-end
-
-local onClientCommand = function(module, command, source, args)
-  if Commands[module] and Commands[module][command] then
-    Commands[module][command](source, args);
-  end
-end
-
-if isServer() then
-  Events.OnClientCommand.Add(onClientCommand);
-end
+return {
+  generateTransmogModData = generateTransmogModData
+}

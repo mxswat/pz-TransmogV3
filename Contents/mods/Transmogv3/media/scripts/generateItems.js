@@ -16,7 +16,7 @@ const templateCosmetic = (idx) =>
     Cosmetic = TRUE,
     DisplayName = TransmogCosmetic_${idx},
     ClothingItem = InvisibleItem,
-    BodyLocation = Transmog_Cosmetic,
+    BodyLocation = Transmog_Location_${idx},
     Icon = NoseRing_Gold,
     Weight = 0,
   }

@@ -42,8 +42,11 @@ local function patchAllClothing()
     local item = allItems:get(i);
     if isItemTransmoggable(item) then
       BackupClothingItemAsset[item:getFullName()] = item:getClothingItemAsset()
-      item:setClothingItemAsset(invisibleClothingItemAsset)
-      validItemsCount = validItemsCount + 1
+      -- item:setClothingItemAsset(invisibleClothingItemAsset)
+      -- -- setClothingItemAsset makes the 3d obj invisible. By forcing it to have no static model, the item appears on the floor as an icon
+      -- -- item:DoParam("ClothingItem = InvisibleItem")
+      -- item:DoParam("WorldStaticModel = null")
+      -- validItemsCount = validItemsCount + 1
     end
   end
 

@@ -21,7 +21,7 @@ function TestStuff()
   for i = 1, itemVisuals:size() do
     local clear = itemVisuals:get(i - 1):clear()
   end
-  -- getPlayer():resetModelNextFrame();
+  getPlayer():resetModelNextFrame();
 end
 
 -- local onClothingUpdated = function(player)
